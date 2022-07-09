@@ -19,9 +19,8 @@
 
 ## DEMO
 
-La aplicacion se ha desplegado en Github y Netlify
+La aplicacion se ha desplegado en Netlify
 
-- Link Github
 - Link Netlify https://pokemon-ph.netlify.app/
 
 ## FUNCIONALIDADES DE LA APLICACION
