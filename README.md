@@ -28,20 +28,20 @@ La aplicacion se ha desplegado en Github y Netlify
 
 #### HOME
 
-- BUSCADOR
+- BUSCADOR:
   Desde acá podremos buscar un pokemon en particular(ATENCION que no busca por matcheo entre el valor ingresado y el nombre de los pokemons)
   En caso de no encontrar una coincidencia seremos redirigidos al home.
   En caso de encontrar una coincidencia seremos redirigidos a la pantalla de detalle del pokemon
 
-- LISTADO POKEMONS
+- LISTADO POKEMONS:
   En este apartado podremos visualizar todos los pokemoms. Se encuentran paginados
 
-- MODAL VISUALIZAR POKEMON
+- MODAL VISUALIZAR POKEMON:
   Al hacer click en una targeta del listado se abrirá un modal con los detalles del pokemon
 
 #### DETALLE
 
-- DETALLE
+- DETALLE:
   Desde acá podremos visualizar detalles del pokemon buscado
 
 ## FUTURAS MEJORAS
