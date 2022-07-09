@@ -1,6 +1,6 @@
-## POKEMON CHALLENGE
+# POKEMON CHALLENGE
 
-## Installation and Setup Instructions
+## INSTALACIONES E INSTRUCCIONES PARA LEVANTAR EL PROYECTO
 
 -Clonar el repositorio o descargar el codigo
 
@@ -22,11 +22,11 @@
 La aplicacion se ha desplegado en Github y Netlify
 
 - Link Github
-- Link Netlify
+- Link Netlify https://pokemon-ph.netlify.app/
 
 ## FUNCIONALIDADES DE LA APLICACION
 
-### HOME
+#### HOME
 
 - BUSCADOR
   Desde acá podremos buscar un pokemon en particular(ATENCION que no busca por matcheo entre el valor ingresado y el nombre de los pokemons)
@@ -39,7 +39,7 @@ La aplicacion se ha desplegado en Github y Netlify
 - MODAL VISUALIZAR POKEMON
   Al hacer click en una targeta del listado se abrirá un modal con los detalles del pokemon
 
-### DETALLE
+#### DETALLE
 
 - DETALLE
   Desde acá podremos visualizar detalles del pokemon buscado
@@ -54,7 +54,7 @@ La aplicacion se ha desplegado en Github y Netlify
 - Usar css modules en caso de usar hojas de estilos
 - Faltan estilos en las targetas (por ejemplo un hover cuando pasamos el mouse por encima)
 
-## Librerias y/o caracteristicas usadas
+## LIBRERIAS Y/ CARACTERISTICAS USADAS
 
 - Redux
 - React Router
